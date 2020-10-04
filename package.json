@@ -1,0 +1,46 @@
+{
+  "name": "nodebb-theme-forumtrading",
+  "version": "10.2.5",
+  "nbbpm": {
+    "compatibility": "^1.14.0"
+  },
+  "description": "Forum-Trading new theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhtrading/nodebb-theme-forumtrading"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "ffmad",
+      "email": "admin@cryptofr.com",
+      "url": "https://github.com/ffmad"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/thanhtrading/nodebb-theme-forumtrading/issues"
+  }
+}
